@@ -31,22 +31,27 @@ Print an integer which is ceil of average of integers present in array
 2
 ```
 
+### Solution
+
 ```javascript
 function processData(input) {
-    input = input.trim().split("\n")
-    // console.log("Input =>", input)
-    
-    let size = Number(input[0].trim())
-    let arr = input[1].trim().split(" ").map(e => Number(e))
-    
-    // console.log("Size, Array", size, arr)
-    
-    let sum = 0
-    
-    for(let i=0; i<size; i++){
-        sum += arr[i]
-    }
-    
-    console.log(Math.ceil(sum/size))
-} 
+  input = input.trim().split("\n");
+  // console.log("Input =>", input)
+
+  let size = Number(input[0].trim());
+  let arr = input[1]
+    .trim()
+    .split(" ")
+    .map((e) => Number(e));
+
+  // console.log("Size, Array", size, arr)
+
+  let sum = 0;
+
+  for (let i = 0; i < size; i++) {
+    sum += arr[i];
+  }
+
+  console.log(Math.ceil(sum / size));
+}
 ```

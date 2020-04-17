@@ -45,34 +45,38 @@ Even numbers present in array are 2 and 4, whose sum is 6
 Since 6>4, Even is the required output.
 ```
 
+### Solution
+
 ```javascript
 function processData(input) {
-    input = input.trim().split("\n")
-    // console.log(input)
-    
-    let size = Number(input[0].trim())
-    let arr = input[1].trim().split(" ").map(e => Number(e))
-    
-    // console.log("Size, Array =>", size, arr)
-    
-    let evenSum = 0, oddSum = 0
-    
-    for(let i=0; i<size; i++){
-        if(arr[i] % 2 === 0){
-            evenSum += arr[i]
-        }
-        else{
-            oddSum += arr[i]
-        }
+  input = input.trim().split("\n");
+  // console.log(input)
+
+  let size = Number(input[0].trim());
+  let arr = input[1]
+    .trim()
+    .split(" ")
+    .map((e) => Number(e));
+
+  // console.log("Size, Array =>", size, arr)
+
+  let evenSum = 0,
+    oddSum = 0;
+
+  for (let i = 0; i < size; i++) {
+    if (arr[i] % 2 === 0) {
+      evenSum += arr[i];
+    } else {
+      oddSum += arr[i];
     }
-    
-    // console.log("Even and Odd sum", evenSum, oddSum)
-    
-    if(oddSum > evenSum){
-        console.log("Odd")
-    }
-    else{
-        console.log("Even")
-    }
-} 
+  }
+
+  // console.log("Even and Odd sum", evenSum, oddSum)
+
+  if (oddSum > evenSum) {
+    console.log("Odd");
+  } else {
+    console.log("Even");
+  }
+}
 ```
