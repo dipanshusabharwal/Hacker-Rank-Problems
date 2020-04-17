@@ -38,7 +38,7 @@
 
 #### 1. [Sparse Arrays](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/sparse_arrays.md)
 
-#### 2. Left Rotation
+#### 2. [Left Rotation](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/left_rotation.md)
 
 #### 3. Caesar Cypher
 
