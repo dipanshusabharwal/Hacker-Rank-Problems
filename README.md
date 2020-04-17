@@ -32,11 +32,11 @@
 
 #### 3. [Climbing the leaderboard](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/climbing_the_leaderboard.md)
 
-#### 4. [Encryption] https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/encryption.md
+#### 4. [Encryption](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/encryption.md)
 
-### Day 2
+### [Day 2](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision/day_2)
 
-#### 1. Sparse Arrays
+#### 1. [Sparse Arrays](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/sparse_arrays.md)
 
 #### 2. Left Rotation
 
