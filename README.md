@@ -42,4 +42,4 @@
 
 #### 3. [Caesar Cypher](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/caesar_cypher.md)
 
-#### 4. Gemstones
+#### 4. [Gemstones](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/gemstones.md)
