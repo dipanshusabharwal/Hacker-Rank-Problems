@@ -1,6 +1,4 @@
-## https://www.hackerrank.com/contests/cohort-3-module-1-1-2/challenges/average-16
-
-# Masai Average
+# [Masai Average](https://www.hackerrank.com/contests/cohort-3-module-1-1-2/challenges/average-16)
 
 Given an array, A, of N integers, print the ceil of average of numbers present in given array
 
@@ -10,7 +8,9 @@ The first line contains an integer, N (the number of integers in A). The second 
 
 ### Constraints
 
+```
 N<100
+```
 
 ### Output Format
 
