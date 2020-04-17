@@ -8,15 +8,11 @@ The first line contains an integer, N (the number of integers in A). The second 
 
 ### Constraints
 
-```
 N<100
-```
 
 ### Output Format
 
-```
 Print an integer which is ceil of average of integers present in array
-```
 
 ### Sample Input 0
 

@@ -4,23 +4,17 @@ You are given scores of last N matches of two different batsmen in form of array
 
 ### Input Format
 
-```
 First line contains the number of matches N.
 
 Second line contains N space separated integers describing scores of first batsman. Third line contains N space separated integers descibing scores of second batsman.
-```
 
 ### Constraints
 
-```
 N<100
-```
 
 ### Output Format
 
-```
 Print an integer which can either be ceil of better average of the two batsmen or -1 depending upon the ceil of better average.
-```
 
 ### Sample Input 0
 
@@ -38,9 +32,7 @@ Print an integer which can either be ceil of better average of the two batsmen o
 
 ### Explanation 0
 
-```
 Here, the number of matches is 3. And average of first batsman is 20 while average of second batsman is 60. Since 60>20 and 60 is also even, 60 is the output.
-```
 
 ### Solution
 

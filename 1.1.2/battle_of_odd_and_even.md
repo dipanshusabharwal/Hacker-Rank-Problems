@@ -4,23 +4,17 @@ You are given an array A of N integers. Your task is to write a programme that p
 
 ### Input Format
 
-```
 First line contains N which is the number of elements present in the array.
-```
 
 Second line contains N space separated integers which are the elements of array.
 
 ### Constraints
 
-```
 N<100
-```
 
 ### Output Format
 
-```
 Print either "Odd" or "Even" depending upon the condition mentioned above.
-```
 
 ### Sample Input 0
 
@@ -37,13 +31,11 @@ Even
 
 ### Explanation 0
 
-```
 Odd numbers present are 1 and 3, whose sum is 4
 
 Even numbers present in array are 2 and 4, whose sum is 6
 
 Since 6>4, Even is the required output.
-```
 
 ### Solution
 
