@@ -6,6 +6,6 @@
 
 ### 3. [Better average](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/better_average.md)
 
-### 4. Smallest and largest of all
+### 4. [Smallest and largest of all](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/smallest_and_largest_of_all.md)
 
 ### 5. Compete with neighbour
