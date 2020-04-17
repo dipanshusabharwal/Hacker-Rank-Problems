@@ -14,4 +14,10 @@
 
 #### 6. [Negativity!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/negativity.md)
 
-#### 7. Count consonants
+#### 7. [Count consonant](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
+
+#### 8. [Count such pairs](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_such_pairs.md)
+
+#### 9. [Identify prime](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/identify_prime.md)
+
+#### 10. [Longest repeated odd(https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)]
