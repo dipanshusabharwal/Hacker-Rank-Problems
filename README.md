@@ -22,11 +22,11 @@
 
 #### 5. [Longest repeated odd](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
 
-# Revision
+# [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
-### Day 1
+### [Day 1](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision/day_1)
 
-#### 1. Staircase
+#### 1. [Staircase](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/staircase.md)
 
 #### 2. Day of the programmer
 
