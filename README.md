@@ -10,6 +10,8 @@
 
 #### 5. [Compete with neighbour](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/compete_with_neighbour.md)
 
-# Module 1.1.3
+# [Module 1.1.3](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/1.1.3)
 
-#### 6. Negativity!
+#### 6. [Negativity!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/negativity.md)
+
+#### 7. Count consonants
