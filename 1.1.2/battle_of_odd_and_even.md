@@ -16,20 +16,20 @@ N<100
 
 Print either "Odd" or "Even" depending upon the condition mentioned above.
 
-### Sample Input 0
+### Sample Input
 
 ```
 4
 1 2 3 4
 ```
 
-### Sample Output 0
+### Sample Output
 
 ```
 Even
 ```
 
-### Explanation 0
+### Explanation
 
 Odd numbers present are 1 and 3, whose sum is 4
 

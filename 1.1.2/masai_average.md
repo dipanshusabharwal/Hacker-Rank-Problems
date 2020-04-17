@@ -14,14 +14,14 @@ N<100
 
 Print an integer which is ceil of average of integers present in array
 
-### Sample Input 0
+### Sample Input
 
 ```
 3
 1 2 3
 ```
 
-### Sample Output 0
+### Sample Output
 
 ```
 2
