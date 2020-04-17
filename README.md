@@ -30,6 +30,6 @@
 
 #### 2. [Day of the programmer](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/day_of_the_programmer.md)
 
-#### 3. Climbing the leaderboard
+#### 3. [Climbing the leaderboard(https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/climbing_the_leaderboard.md)]
 
 #### 4. Encryption
