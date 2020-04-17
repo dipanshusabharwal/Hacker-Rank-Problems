@@ -30,6 +30,16 @@
 
 #### 2. [Day of the programmer](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/day_of_the_programmer.md)
 
-#### 3. [Climbing the leaderboard(https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/climbing_the_leaderboard.md)]
+#### 3. [Climbing the leaderboard](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/climbing_the_leaderboard.md)
 
-#### 4. Encryption
+#### 4. [Encryption] https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/encryption.md
+
+### Day 2
+
+#### 1. Sparse Arrays
+
+#### 2. Left Rotation
+
+#### 3. Caesar Cypher
+
+#### 4. Gemstones
