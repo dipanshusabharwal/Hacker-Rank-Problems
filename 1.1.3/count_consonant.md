@@ -1,4 +1,4 @@
-# Count Consonant
+# [Count Consonant](https://www.hackerrank.com/contests/cohort-3-module-1-1-3/challenges/count-consonant)
 
 You are provided a string S. Your task is to write a programme that counts the number of consonants (non-vowels characters) present in the string.
 

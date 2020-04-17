@@ -12,12 +12,24 @@
 
 # [Module 1.1.3](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/1.1.3)
 
-#### 6. [Negativity!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/negativity.md)
+#### 1. [Negativity!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/negativity.md)
 
-#### 7. [Count consonant](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
+#### 2. [Count consonant](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
 
-#### 8. [Count such pairs](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_such_pairs.md)
+#### 3. [Count such pairs](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_such_pairs.md)
 
-#### 9. [Identify prime](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/identify_prime.md)
+#### 4. [Identify prime](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/identify_prime.md)
 
-#### 10. [Longest repeated odd](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
+#### 5. [Longest repeated odd](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
+
+# Revision
+
+### Day 1
+
+#### 1. Staircase
+
+#### 2. Day of the programmer
+
+#### 3. Climbing the leaderboard
+
+#### 4. Encryption
