@@ -48,7 +48,17 @@
 
 #### 5. [Masai Palindromic Substring](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/masai_palindromic_substring.md)
 
-#### 6. [Minimum Operations Required]()
+#### 6. [Minimum Operations Required](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/minimum_operations_required.md)
+
+# [Module 2.2.2]()
+
+#### 1. [The JEEE]()
+
+#### 2. [Your First Maze Problem]()
+
+#### 3. [Masai Divisors]()
+
+#### 4. [Manage Forum Mall Parking]()
 
 # [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
