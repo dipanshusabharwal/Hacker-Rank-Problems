@@ -56,9 +56,11 @@
 
 #### 2. [Your First Maze Problem](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.2/your_first_maze_problem.md)
 
-#### 3. [Masai Divisors]()
+#### 3. [Masai Divisors](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.2/masai_divisors.md)
 
-#### 4. [Manage Forum Mall Parking]()
+#### 4. [Sum Of Special Pairs]()
+
+#### 5. [Manage Forum Mall Parking]()
 
 # [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
