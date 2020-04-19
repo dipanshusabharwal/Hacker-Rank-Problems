@@ -54,7 +54,7 @@
 
 #### 1. [The JEEE](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.2/the_jee.md)
 
-#### 2. [Your First Maze Problem]()
+#### 2. [Your First Maze Problem](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.2/your_first_maze_problem.md)
 
 #### 3. [Masai Divisors]()
 
