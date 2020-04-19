@@ -50,9 +50,9 @@
 
 #### 6. [Minimum Operations Required](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/minimum_operations_required.md)
 
-# [Module 2.2.2]()
+# [Module 2.2.2](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/2.2.2)
 
-#### 1. [The JEEE]()
+#### 1. [The JEEE](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.2/the_jee.md)
 
 #### 2. [Your First Maze Problem]()
 
