@@ -30,7 +30,7 @@
 
 #### 3. [Help Elevator](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/help_elevator.md)
 
-#### 4. Sum and Conditions
+#### 4. [Sum and Conditions](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/sum_and_conditions.md)
 
 #### 5. Maximum occuring element
 
