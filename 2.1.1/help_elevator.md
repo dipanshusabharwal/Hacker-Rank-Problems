@@ -1,0 +1,19 @@
+# [Help Elevator](https://www.hackerrank.com/contests/cohort-3-module-2-1-1/challenges/help-elevator)
+
+### Solution
+
+```javascript
+function processData(input) {
+  input = input.trim().split("\n");
+  // console.log("Input =>", input)
+
+  let size = Number(input[0].trim());
+  let arr = input[1]
+    .trim()
+    .split(" ")
+    .map((e) => Number(e));
+  // console.log("Size, Array =>", size, arr)
+
+  arr.forEach((e) => (e >= 85 ? console.log("Beep") : console.log("Enter")));
+}
+```

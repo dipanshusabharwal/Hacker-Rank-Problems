@@ -26,7 +26,7 @@
 
 #### 1. [Equal to 42 or not!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/equal_to_42_or_not.md)
 
-#### 2. Product of array problem
+#### 2. [Product of array problem](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/product_of_arrays_problem.md)
 
 #### 3. Help Elevator
 
