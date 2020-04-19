@@ -46,7 +46,7 @@
 
 #### 4. [Count Chars](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/count_chars.md)
 
-#### 5. [Masai Palindromic Substring]()
+#### 5. [Masai Palindromic Substring](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/masai_palindromic_substring.md)
 
 #### 6. [Minimum Operations Required]()
 
