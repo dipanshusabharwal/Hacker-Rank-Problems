@@ -22,6 +22,20 @@
 
 #### 5. [Longest repeated odd](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
 
+# [Module 2.1.1](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/2.1.1)
+
+#### 1. [Equal to 42 or not!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/equal_to_42_or_not.md)
+
+#### 2. Product of array problem
+
+#### 3. Help Elevator
+
+#### 4. Sum and Condistions
+
+#### 5. Maximum occuring element
+
+#### 6. Three max, Three min please
+
 # [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
 ### [Day 1](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision/day_1)
