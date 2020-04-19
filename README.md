@@ -34,7 +34,11 @@
 
 #### 5. [Maximum occuring element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/maximum_occuring_element.md)
 
-#### 6. Three max, Three min please
+#### 6. [Three max, Three min please](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/three_max_three_min.md)
+
+# Module 2.2.1
+
+#### 1. Catch that 420!
 
 # [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
