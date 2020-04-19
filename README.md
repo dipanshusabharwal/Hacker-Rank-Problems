@@ -47,3 +47,9 @@
 ### [Day 3](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision/day_3)
 
 #### 1. [Maximum Element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_3/maximum_element.md)
+
+#### 2. [Can you find the sum](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_3/can_you_find_the_sum.md)
+
+#### 3. Largest Rectangle
+
+#### 4. Boxes n Coins
