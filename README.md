@@ -1,44 +1,54 @@
 # [Module 1.1.2](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/1.1.2)
 
-#### 1. [Masai average](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/masai_average.md)
+#### 1. [Masai Average](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/masai_average.md)
 
-#### 2. [Battle of odd and even](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/battle_of_odd_and_even.md)
+#### 2. [Battle Of Odd And Even](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/battle_of_odd_and_even.md)
 
-#### 3. [Better average](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/better_average.md)
+#### 3. [Better Average](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/better_average.md)
 
-#### 4. [Smallest and largest of all](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/smallest_and_largest_of_all.md)
+#### 4. [Smallest And Largest Of All](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/smallest_and_largest_of_all.md)
 
-#### 5. [Compete with neighbour](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/compete_with_neighbour.md)
+#### 5. [Compete With Neighbour](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.2/compete_with_neighbour.md)
 
 # [Module 1.1.3](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/1.1.3)
 
 #### 1. [Negativity!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/negativity.md)
 
-#### 2. [Count consonant](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
+#### 2. [Count Consonant](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
 
-#### 3. [Count such pairs](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_such_pairs.md)
+#### 3. [Count Such Pairs](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_such_pairs.md)
 
-#### 4. [Identify prime](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/identify_prime.md)
+#### 4. [Identify Prime](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/identify_prime.md)
 
-#### 5. [Longest repeated odd](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
+#### 5. [Longest Repeated Odd](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/1.1.3/count_consonant.md)
 
 # [Module 2.1.1](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/2.1.1)
 
-#### 1. [Equal to 42 or not!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/equal_to_42_or_not.md)
+#### 1. [Equal To 42 Or Not!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/equal_to_42_or_not.md)
 
-#### 2. [Product of array problem](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/product_of_arrays_problem.md)
+#### 2. [Product Of Array Problem](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/product_of_arrays_problem.md)
 
 #### 3. [Help Elevator](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/help_elevator.md)
 
-#### 4. [Sum and Conditions](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/sum_and_conditions.md)
+#### 4. [Sum And Conditions](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/sum_and_conditions.md)
 
-#### 5. [Maximum occuring element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/maximum_occuring_element.md)
+#### 5. [Maximum Occuring Element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/maximum_occuring_element.md)
 
-#### 6. [Three max, Three min please](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/three_max_three_min.md)
+#### 6. [Three Max, Three Min Please](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/three_max_three_min.md)
 
-# Module 2.2.1
+# [Module 2.2.1](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/2.2.1)
 
-#### 1. Catch that 420!
+#### 1. [Catch That 420!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/catch_that_420.md)
+
+#### 2. Conditional Matrix Sum
+
+#### 3. Detect Palindrome
+
+#### 4. Count Chars
+
+#### 5. Masai Palindromic Substring
+
+#### 6. Minimum Operations Required
 
 # [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
@@ -46,9 +56,9 @@
 
 #### 1. [Staircase](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/staircase.md)
 
-#### 2. [Day of the programmer](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/day_of_the_programmer.md)
+#### 2. [Day Of The Programmer](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/day_of_the_programmer.md)
 
-#### 3. [Climbing the leaderboard](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/climbing_the_leaderboard.md)
+#### 3. [Climbing The Leaderboard](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/climbing_the_leaderboard.md)
 
 #### 4. [Encryption](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_1/encryption.md)
 
@@ -66,8 +76,8 @@
 
 #### 1. [Maximum Element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_3/maximum_element.md)
 
-#### 2. [Can you find the sum](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_3/can_you_find_the_sum.md)
+#### 2. [Can You Find The Sum](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_3/can_you_find_the_sum.md)
 
 #### 3. Largest Rectangle
 
-#### 4. Boxes n Coins
+#### 4. Boxes N Coins
