@@ -28,9 +28,9 @@
 
 #### 2. [Product of array problem](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/product_of_arrays_problem.md)
 
-#### 3. Help Elevator
+#### 3. [Help Elevator](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/help_elevator.md)
 
-#### 4. Sum and Condistions
+#### 4. Sum and Conditions
 
 #### 5. Maximum occuring element
 
