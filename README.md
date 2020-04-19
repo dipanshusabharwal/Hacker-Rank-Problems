@@ -32,7 +32,7 @@
 
 #### 4. [Sum and Conditions](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/sum_and_conditions.md)
 
-#### 5. Maximum occuring element
+#### 5. [Maximum occuring element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.1.1/maximum_occuring_element.md)
 
 #### 6. Three max, Three min please
 
