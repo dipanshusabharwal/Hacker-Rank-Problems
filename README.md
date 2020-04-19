@@ -44,7 +44,7 @@
 
 #### 3. [Detect Palindrome](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/detect_palindrome.md)
 
-#### 4. [Count Chars]()
+#### 4. [Count Chars](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/count_chars.md)
 
 #### 5. [Masai Palindromic Substring]()
 
