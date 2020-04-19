@@ -42,13 +42,13 @@
 
 #### 2. [Conditional Matrix Sum](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/conditional_matrix_sum.md)
 
-#### 3. Detect Palindrome
+#### 3. [Detect Palindrome](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/detect_palindrome.md)
 
-#### 4. Count Chars
+#### 4. [Count Chars]()
 
-#### 5. Masai Palindromic Substring
+#### 5. [Masai Palindromic Substring]()
 
-#### 6. Minimum Operations Required
+#### 6. [Minimum Operations Required]()
 
 # [Revision](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision)
 
