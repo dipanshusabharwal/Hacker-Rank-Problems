@@ -43,3 +43,7 @@
 #### 3. [Caesar Cypher](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/caesar_cypher.md)
 
 #### 4. [Gemstones](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_2/gemstones.md)
+
+### [Day 3](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/tree/master/revision/day_3)
+
+#### 1. [Maximum Element](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/revision/day_3/maximum_element.md)
