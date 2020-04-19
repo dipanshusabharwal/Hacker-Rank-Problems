@@ -40,7 +40,7 @@
 
 #### 1. [Catch That 420!](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/catch_that_420.md)
 
-#### 2. Conditional Matrix Sum
+#### 2. [Conditional Matrix Sum](https://github.com/dipanshusabharwal/Hacker-Rank-Problems/blob/master/2.2.1/conditional_matrix_sum.md)
 
 #### 3. Detect Palindrome
 
